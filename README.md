@@ -1,5 +1,7 @@
 # Dispenser
 
+![](./images/1.png)
+
 Our environments: ubuntu18.04/GCC7.5/ GPU: RTX2080ti.<br />
 Configuration required<br />
 RAFT: https://github.com/princeton-vl/RAFT<br />
@@ -16,4 +18,6 @@ Our code is tested on:
 * Sophus 1.0
 * g2o 2.1.0
 
-video address:https://www.bilibili.com/video/BV1EV4y1D7GK/<br />
+## Video: 
+
+<iframe height="600" width="800" src="//player.bilibili.com/player.html?bvid=1ku4y1g7aJ&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
